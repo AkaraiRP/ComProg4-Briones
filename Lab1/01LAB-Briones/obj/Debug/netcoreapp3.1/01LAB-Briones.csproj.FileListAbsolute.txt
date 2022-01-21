@@ -1,0 +1,12 @@
+C:\Users\asus\Desktop\Hidden\Emil\School\Grade 12\Projects\1st Semester\Computer Programming 4\Lab1\01LAB-Briones\bin\Debug\netcoreapp3.1\01LAB-Briones.exe
+C:\Users\asus\Desktop\Hidden\Emil\School\Grade 12\Projects\1st Semester\Computer Programming 4\Lab1\01LAB-Briones\bin\Debug\netcoreapp3.1\01LAB-Briones.deps.json
+C:\Users\asus\Desktop\Hidden\Emil\School\Grade 12\Projects\1st Semester\Computer Programming 4\Lab1\01LAB-Briones\bin\Debug\netcoreapp3.1\01LAB-Briones.runtimeconfig.json
+C:\Users\asus\Desktop\Hidden\Emil\School\Grade 12\Projects\1st Semester\Computer Programming 4\Lab1\01LAB-Briones\bin\Debug\netcoreapp3.1\01LAB-Briones.runtimeconfig.dev.json
+C:\Users\asus\Desktop\Hidden\Emil\School\Grade 12\Projects\1st Semester\Computer Programming 4\Lab1\01LAB-Briones\bin\Debug\netcoreapp3.1\01LAB-Briones.dll
+C:\Users\asus\Desktop\Hidden\Emil\School\Grade 12\Projects\1st Semester\Computer Programming 4\Lab1\01LAB-Briones\bin\Debug\netcoreapp3.1\01LAB-Briones.pdb
+C:\Users\asus\Desktop\Hidden\Emil\School\Grade 12\Projects\1st Semester\Computer Programming 4\Lab1\01LAB-Briones\obj\Debug\netcoreapp3.1\01LAB-Briones.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\Hidden\Emil\School\Grade 12\Projects\1st Semester\Computer Programming 4\Lab1\01LAB-Briones\obj\Debug\netcoreapp3.1\01LAB-Briones.AssemblyInfo.cs
+C:\Users\asus\Desktop\Hidden\Emil\School\Grade 12\Projects\1st Semester\Computer Programming 4\Lab1\01LAB-Briones\obj\Debug\netcoreapp3.1\01LAB-Briones.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Hidden\Emil\School\Grade 12\Projects\1st Semester\Computer Programming 4\Lab1\01LAB-Briones\obj\Debug\netcoreapp3.1\01LAB-Briones.dll
+C:\Users\asus\Desktop\Hidden\Emil\School\Grade 12\Projects\1st Semester\Computer Programming 4\Lab1\01LAB-Briones\obj\Debug\netcoreapp3.1\01LAB-Briones.pdb
+C:\Users\asus\Desktop\Hidden\Emil\School\Grade 12\Projects\1st Semester\Computer Programming 4\Lab1\01LAB-Briones\obj\Debug\netcoreapp3.1\01LAB-Briones.genruntimeconfig.cache
