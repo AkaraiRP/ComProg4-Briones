@@ -1,0 +1,13 @@
+C:\Users\asus\Desktop\Hidden\Emil\School\Grade 12\Projects\1st Semester\Computer Programming 4\LMS Assessment\LMS-Assessment-Briones\bin\Debug\netcoreapp3.1\LMS-Assessment-Briones.exe
+C:\Users\asus\Desktop\Hidden\Emil\School\Grade 12\Projects\1st Semester\Computer Programming 4\LMS Assessment\LMS-Assessment-Briones\bin\Debug\netcoreapp3.1\LMS-Assessment-Briones.deps.json
+C:\Users\asus\Desktop\Hidden\Emil\School\Grade 12\Projects\1st Semester\Computer Programming 4\LMS Assessment\LMS-Assessment-Briones\bin\Debug\netcoreapp3.1\LMS-Assessment-Briones.runtimeconfig.json
+C:\Users\asus\Desktop\Hidden\Emil\School\Grade 12\Projects\1st Semester\Computer Programming 4\LMS Assessment\LMS-Assessment-Briones\bin\Debug\netcoreapp3.1\LMS-Assessment-Briones.runtimeconfig.dev.json
+C:\Users\asus\Desktop\Hidden\Emil\School\Grade 12\Projects\1st Semester\Computer Programming 4\LMS Assessment\LMS-Assessment-Briones\bin\Debug\netcoreapp3.1\LMS-Assessment-Briones.dll
+C:\Users\asus\Desktop\Hidden\Emil\School\Grade 12\Projects\1st Semester\Computer Programming 4\LMS Assessment\LMS-Assessment-Briones\bin\Debug\netcoreapp3.1\LMS-Assessment-Briones.pdb
+C:\Users\asus\Desktop\Hidden\Emil\School\Grade 12\Projects\1st Semester\Computer Programming 4\LMS Assessment\LMS-Assessment-Briones\obj\Debug\netcoreapp3.1\LMS-Assessment-Briones.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\Hidden\Emil\School\Grade 12\Projects\1st Semester\Computer Programming 4\LMS Assessment\LMS-Assessment-Briones\obj\Debug\netcoreapp3.1\LMS-Assessment-Briones.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\Hidden\Emil\School\Grade 12\Projects\1st Semester\Computer Programming 4\LMS Assessment\LMS-Assessment-Briones\obj\Debug\netcoreapp3.1\LMS-Assessment-Briones.AssemblyInfo.cs
+C:\Users\asus\Desktop\Hidden\Emil\School\Grade 12\Projects\1st Semester\Computer Programming 4\LMS Assessment\LMS-Assessment-Briones\obj\Debug\netcoreapp3.1\LMS-Assessment-Briones.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Hidden\Emil\School\Grade 12\Projects\1st Semester\Computer Programming 4\LMS Assessment\LMS-Assessment-Briones\obj\Debug\netcoreapp3.1\LMS-Assessment-Briones.dll
+C:\Users\asus\Desktop\Hidden\Emil\School\Grade 12\Projects\1st Semester\Computer Programming 4\LMS Assessment\LMS-Assessment-Briones\obj\Debug\netcoreapp3.1\LMS-Assessment-Briones.pdb
+C:\Users\asus\Desktop\Hidden\Emil\School\Grade 12\Projects\1st Semester\Computer Programming 4\LMS Assessment\LMS-Assessment-Briones\obj\Debug\netcoreapp3.1\LMS-Assessment-Briones.genruntimeconfig.cache

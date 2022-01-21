@@ -1,0 +1,5 @@
+[2022-01-21|22:51:47] Debited 1500 from account.
+[2022-01-21|22:51:51] Debited 1500 from account.
+[2022-01-21|22:51:56] Debited 0 from account.
+[2022-01-21|23:07:32] Debited 2000 from account.
+[2022-01-21|23:07:37] Debited 5000 from account.
